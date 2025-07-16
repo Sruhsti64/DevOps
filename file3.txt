@@ -1,0 +1,3 @@
+
+hello this is a file creator from  vi editor
+
